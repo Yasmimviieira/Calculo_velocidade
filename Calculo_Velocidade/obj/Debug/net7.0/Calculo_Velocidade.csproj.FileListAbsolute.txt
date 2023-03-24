@@ -1,0 +1,15 @@
+C:\C#\Calculo_Velocidade\Calculo_Velocidade\obj\Debug\net7.0\Calculo_Velocidade.csproj.AssemblyReference.cache
+C:\C#\Calculo_Velocidade\Calculo_Velocidade\obj\Debug\net7.0\Calculo_Velocidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Calculo_Velocidade\Calculo_Velocidade\obj\Debug\net7.0\Calculo_Velocidade.AssemblyInfoInputs.cache
+C:\C#\Calculo_Velocidade\Calculo_Velocidade\obj\Debug\net7.0\Calculo_Velocidade.AssemblyInfo.cs
+C:\C#\Calculo_Velocidade\Calculo_Velocidade\obj\Debug\net7.0\Calculo_Velocidade.csproj.CoreCompileInputs.cache
+C:\C#\Calculo_Velocidade\Calculo_Velocidade\bin\Debug\net7.0\Calculo_Velocidade.exe
+C:\C#\Calculo_Velocidade\Calculo_Velocidade\bin\Debug\net7.0\Calculo_Velocidade.deps.json
+C:\C#\Calculo_Velocidade\Calculo_Velocidade\bin\Debug\net7.0\Calculo_Velocidade.runtimeconfig.json
+C:\C#\Calculo_Velocidade\Calculo_Velocidade\bin\Debug\net7.0\Calculo_Velocidade.dll
+C:\C#\Calculo_Velocidade\Calculo_Velocidade\bin\Debug\net7.0\Calculo_Velocidade.pdb
+C:\C#\Calculo_Velocidade\Calculo_Velocidade\obj\Debug\net7.0\Calculo_Velocidade.dll
+C:\C#\Calculo_Velocidade\Calculo_Velocidade\obj\Debug\net7.0\refint\Calculo_Velocidade.dll
+C:\C#\Calculo_Velocidade\Calculo_Velocidade\obj\Debug\net7.0\Calculo_Velocidade.pdb
+C:\C#\Calculo_Velocidade\Calculo_Velocidade\obj\Debug\net7.0\Calculo_Velocidade.genruntimeconfig.cache
+C:\C#\Calculo_Velocidade\Calculo_Velocidade\obj\Debug\net7.0\ref\Calculo_Velocidade.dll
